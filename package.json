@@ -3,6 +3,7 @@
   "version": "Beta",
   "private": true,
   "description": "Popular Games",
+  "packageManager": "pnpm@12.6.0",
   "scripts": {
     "start": "node server.js"
   }

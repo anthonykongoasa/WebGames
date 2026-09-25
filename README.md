@@ -7,7 +7,7 @@ A local-first hub for playing a curated set of free web games in one place.
 Requires Node.js 18+.
 
 ```sh
-npm start
+pnpm start
 ```
 
 Then open http://localhost:3000.
