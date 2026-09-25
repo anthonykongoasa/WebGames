@@ -1,0 +1,9 @@
+{
+  "name": "Games",
+  "version": "Beta",
+  "private": true,
+  "description": "Popular Games",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
